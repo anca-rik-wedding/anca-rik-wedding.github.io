@@ -4,7 +4,7 @@ author: "Anca Dumitrache"
 
 <script src="https://use.fontawesome.com/4b6dfd67d9.js"></script>
 
-#### [Anca & Rik wedding](./)  &nbsp; : &nbsp;  [Travel](travel)  &nbsp; &#10209; &nbsp;  [Hotels](hotels)  &nbsp; &#10209; &nbsp;  [Post-wedding trip](trip) 
+#### [Anca & Rik wedding](./)  &nbsp; : &nbsp; [RSVP](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Travel](travel)  &nbsp; &#10209; &nbsp;  [Hotels](hotels)  &nbsp; &#10209; &nbsp;  [Post-wedding trip](trip) 
 
 
 
@@ -19,7 +19,7 @@ author: "Anca Dumitrache"
 
 ### 18 July 2020 ❤️ Bistrița, Romania
 
-It's really happening - we are getting married on 18 July 2020! And we want you to be a part of it!
+It's really happening - we are getting married on 18 July 2020! And we want you to be a part of it!  &#x1F600;
 
 
 We are planning a multi-day event, taking place mostly around Anca's hometown of [Bistrița, Romania](https://en.wikipedia.org/wiki/Bistri%C8%9Ba). After the wedding, we would also like to organize a **week-long trip around Transylvania** together with all of our friends. Here is our proposed schedule:
