@@ -4,7 +4,7 @@ author: "Anca Dumitrache"
 
 <script src="https://use.fontawesome.com/4b6dfd67d9.js"></script>
 
-#### [Anca & Rik wedding](./)  &nbsp; : &nbsp; [RSVP](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Travel](travel.html)  &nbsp; &#10209; &nbsp;  [Hotels](hotels)  &nbsp; &#10209; &nbsp;  [Post-wedding trip](trip) 
+#### [Anca & Rik wedding](./)  &nbsp; : &nbsp; [RSVP](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Travel](travel.html)  &nbsp; &#10209; &nbsp;  [Hotels](hotels.html)  &nbsp; &#10209; &nbsp;  [Visit Transylvania](trip.html) 
 
 
 
