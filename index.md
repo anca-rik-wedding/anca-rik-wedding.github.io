@@ -11,7 +11,7 @@ author: "Anca Dumitrache"
 ***
 
 <figure style="float: right; margin-left: 80px; margin-bottom: 20px; margin-top: 20px">
-<img src="AncaRik.jpg" width="350" />
+<img src="AncaRik.jpg" width="300" />
 <figcaption style="text-align: center; margin-top: 5px; color: gray;">&#9400; [TreeArcade](https://www.treearcade.com/)</figcaption>
 </figure>
 
@@ -34,3 +34,8 @@ We are planning a multi-day event, taking place mostly around Anca's hometown of
 Please note that, since it may take some time to reach our wedding venue, we recommend you *reserve Friday July 17 for travelling purposes*.
 
 Will you join us for our big celebration? Please **[RSVP here](https://forms.gle/nrNsmtP1qeaxgmD89)** ! And don't hesitate to email us ([Anca](mailto:anca.dmtrch@gmail.com) or [Rik](mailto:rikkid6@gmail.com)) with any of your questions.
+
+***
+
+**Contact:** [Anca](mailto:anca.dmtrch@gmail.com) & [Rik](mailto:rikkid6@gmail.com).
+
