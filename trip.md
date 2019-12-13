@@ -36,5 +36,6 @@ Some nice places to see in the area:
 * [Făgăraș mountains](https://en.wikipedia.org/wiki/F%C4%83g%C4%83ra%C8%99_Mountains), the tallest mountains of Romania
 * [Transfăgărășan mountain road](https://en.wikipedia.org/wiki/Transf%C4%83g%C4%83r%C4%83%C8%99an)
 * [Corvin castle](https://en.wikipedia.org/wiki/Corvin_Castle)
+* [Dacian fortress of the Orăștie mountains](https://en.wikipedia.org/wiki/Dacian_Fortresses_of_the_Or%C4%83%C8%99tie_Mountains)
 * [Hațeg dinosaurs park](https://en.wikipedia.org/wiki/Ha%C8%9Beg_Country_Dinosaurs_Geopark)
 * [Apuseni mountains](https://en.wikipedia.org/wiki/Apuseni_Mountains), and its [caves](https://www.uncover-romania.com/attractions/nature/caves-from-apuseni/)
