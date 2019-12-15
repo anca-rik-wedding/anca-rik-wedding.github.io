@@ -5,7 +5,7 @@ author: "Anca Dumitrache"
 
 <script src="https://use.fontawesome.com/4b6dfd67d9.js"></script>
 
-#### [Anca & Rik - Brúðkaup](./)  &nbsp; : &nbsp; [Svara boðinu](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Ferðahagar](is/travel.html)  &nbsp; &#10209; &nbsp;  [Gisting](is/hotels.html)  &nbsp; &#10209; &nbsp;  [ð ferðast um Transilvaníu](trip.html)
+#### [Anca & Rik - Brúðkaup](./)  &nbsp; : &nbsp; [Svara boðinu](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Ferðatilhögun](is/travel.html)  &nbsp; &#10209; &nbsp;  [Gisting](is/hotels.html)  &nbsp; &#10209; &nbsp;  [Að ferðast um Transilvaníu](is/trip.html)
 
 ***
 
@@ -20,10 +20,14 @@ author: "Anca Dumitrache"
 
 [🇬🇧](https://anca-rik-wedding.github.io) &nbsp; [🇮🇸](is/index.html)
 
-Jæja, þá er loksins komið að því. Og þótt fyrr hefði verið segja vafalaust einhverjir. Brúðkaup í vænntum! Við komum til með að gifta okkur 18 Júní 2020! Ekkert myndi gleðja okkur meira en ef þú kæmir og fagnaðir með okkur.
+Jæja, þá er loksins komið að því,þótt fyrr hefði verið segja vafalaust einhverjir. Brúðkaup í vænndum!. Við ætlum að gifta okkur 18. Júní 2020! 
 
-Gestum er í sjalfval sett hvaða viðburði þeir eru viðstaddir. Við erum að planleggja veglega veislu(r) í og við æskuslóðir Öncu í [Bistrița, Rúmeníu](https://en.wikipedia.org/wiki/Bistri%C8%9Ba). Þar fer brúðkaups athöfnin sjálf fram, sem og veisla. Flestir ættu nú að hafa gama af því. Síðan verður haldið uppí fjöll þar sem við taka tveggja daga rólegheit, afslöppun og gaman. Þangað viljum við endilega bjóða vinum og vandamönnum. Fyrir ævintýraþyrsta verður svo boðið uppá vikulanga svaðilför um helstu kennileiti Transilvaníu. Já, líka Drakúlakastalan. 
+Ekkert myndi gleðja okkur meira en að þú kæmir og fagnaðir með okkur.
 
+Við erum að skipuleggja veglega hátíð á æskuslóðum Öncu [Bistrița, Rúmeníu](https://en.wikipedia.org/wiki/Bistri%C8%9Ba). 
+
+Þar fer brúðkaups athöfnin sjálf fram, sem og veisla. Flestir ættu nú að hafa gama af því. Síðan verður haldið uppí fjöll þar sem við taka tveggja daga rólegheit, afslöppun og gaman. Þangað viljum við endilega bjóða ykkur,vinum og vandamönnum. 
+Fyrir ævintýraþyrsta verður svo boðið uppá vikulanga svaðilför um helstu kennileiti Transilvaníu. Já, líka Drakúlakastalann. Gestum er í sjálfval sett hvaða viðburði þeir vilja sækja.
 
 Helstu dagsetningar eru því eftirfarandi:
 
@@ -34,9 +38,11 @@ Helstu dagsetningar eru því eftirfarandi:
 * **Júlí 20 - 26** :  eftir brúðkaups ferðalag um Transilvaníu
 
 
-Kæru gestir, takið eftir. Vinsamlegast skoðið ferðasíðuna til að sjá upplýsingar um bestu ferðamáta til Rúmeníu. Við höfum tekið frá hotelherbergi fyrir alla frá og með 18 Júlí.
+Kæru gestir, takið eftir. Vinsamlega skoðið ferðasíðuna en þar má sjá upplýsingar varðandi besta ferðamátann til Rúmeníu. 
 
-Ef þú er til að leggja land undir fót til að koma og fagna með okkur, villtu þá vinsamlegast fylla inn eftirfarandi eyðublað? **[RSVP here](https://forms.gle/nrNsmtP1qeaxgmD89)** ! Og ekki hika við að senda okkur tölvupóst fyrir frekari upplýsingar! ([Anca](mailto:anca.dmtrch@gmail.com) or [Rik](mailto:rikkid6@gmail.com)).
+Við höfum tekið frá hótelherbergi fyrir alla frá og með 18 Júlí.
+
+Ef þú er til í að leggja land undir fót og fagna með okkur, viltu þá vinsamlegast fylla inn eftirfarandi eyðublað? **[RSVP here](https://forms.gle/nrNsmtP1qeaxgmD89)**! Og ekki hika við að senda okkur tölvupóst fyrir frekari upplýsingar! Við komum til með að senda þér/ykkur frekari upplýsingar í tölvupósti. ([Anca](mailto:anca.dmtrch@gmail.com) or [Rik](mailto:rikkid6@gmail.com)).
 
 ***
 

@@ -18,6 +18,8 @@ author: "Anca Dumitrache"
 ## Travel
 ### Anca & Rik: 18 July 2020 ❤️ Bistrița, Romania
 
+[🇬🇧](https://anca-rik-wedding.github.io/travel) &nbsp; [🇮🇸](is/travel.html)
+
 The wedding will take place at **[Hotel Metropolis](https://www.google.com/maps/place/Metropolis/@47.1272607,24.4966106,15z/data=!4m2!3m1!1s0x0:0x250b9cd755c23bf0?sa=X&ved=2ahUKEwjY_927vZnmAhUMUlAKHa9MDzgQ_BIwFHoECBoQCA)**, in Anca's hometown of **[Bistrița, Romania](https://en.wikipedia.org/wiki/Bistri%C8%9Ba)**. Bistrița is located in the North part of Romania, in the region of [Transylvania](https://en.wikipedia.org/wiki/Transylvania).
 
 Please note that, since it may take some time to reach our wedding venue, we recommend you **reserve Friday July 17 for travelling purposes**.
