@@ -19,6 +19,8 @@ author: "Anca Dumitrache"
 
 ### 18 July 2020 ❤️ Bistrița, Romania
 
+[🇬🇧](./) &nbsp; [🇮🇸](is/index.html)
+
 It's really happening - we are getting married on 18 July 2020! And we want you to be a part of it!  &#x1F600;
 
 
