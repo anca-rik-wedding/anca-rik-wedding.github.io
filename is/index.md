@@ -44,6 +44,10 @@ Við höfum tekið frá hótelherbergi fyrir alla frá og með 18 Júlí.
 
 Ef þú er til í að leggja land undir fót og fagna með okkur, viltu þá vinsamlegast fylla inn eftirfarandi eyðublað? **[RSVP here](https://forms.gle/nrNsmtP1qeaxgmD89)**! Og ekki hika við að senda okkur tölvupóst fyrir frekari upplýsingar! Við komum til með að senda þér/ykkur frekari upplýsingar í tölvupósti. ([Anca](mailto:anca.dmtrch@gmail.com) or [Rik](mailto:rikkid6@gmail.com)).
 
+**Veður:** Veðrið um miðjan Júlí er alla jafna frekar millt. 26°C að meðaltali yfir daginn og um 15°C að næturlagi. 60% raki og náttúrulega einhverjar líkur á rigningu, en við krossum puttana.
+
+**Klæðaburður:** Fyrir Laugardag (brúðkaup og veislu) er vaninn að klæðast siðsamlega. Konur: cotail kjólar, Karlar: skyrta (með eða án bindis). Fyrir Sunnudag og mánudag í afslöppun, væri best að klæðast þægilega og afslappað. Bara þannig að þér líði sem best. Fyrir þá sem fara í viku ferðalag um Trasilvaníu, kemur listi yfir hvað er best að taka með þegar nær dregur. 
+
 ***
 
 **Contact:** [Anca](mailto:anca.dmtrch@gmail.com) & [Rik](mailto:rikkid6@gmail.com).
