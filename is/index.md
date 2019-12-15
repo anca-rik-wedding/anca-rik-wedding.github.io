@@ -5,7 +5,7 @@ author: "Anca Dumitrache"
 
 <script src="https://use.fontawesome.com/4b6dfd67d9.js"></script>
 
-#### [Anca & Rik - Brúðkaup](is/wedding.html)  &nbsp; : &nbsp; [Svara boðinu](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Ferðahagar](is/travel.html)  &nbsp; &#10209; &nbsp;  [Gisting](is/hotels.html)  &nbsp; &#10209; &nbsp;  [ð ferðast um Transilvaníu](trip.html)
+#### [Anca & Rik - Brúðkaup](./)  &nbsp; : &nbsp; [Svara boðinu](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Ferðahagar](is/travel.html)  &nbsp; &#10209; &nbsp;  [Gisting](is/hotels.html)  &nbsp; &#10209; &nbsp;  [ð ferðast um Transilvaníu](trip.html)
 
 ***
 
@@ -18,7 +18,7 @@ author: "Anca Dumitrache"
 
 ### 18 Júlí 2020 ❤️ Bistrița, Rúmeníu
 
-[🇬🇧](./) &nbsp; [🇮🇸](is/index.html)
+[🇬🇧](https://anca-rik-wedding.github.io) &nbsp; [🇮🇸](is/index.html)
 
 Jæja, þá er loksins komið að því. Og þótt fyrr hefði verið segja vafalaust einhverjir. Brúðkaup í vænntum! Við komum til með að gifta okkur 18 Júní 2020! Ekkert myndi gleðja okkur meira en ef þú kæmir og fagnaðir með okkur.
 
