@@ -4,7 +4,7 @@ author: "Anca Dumitrache"
 
 <script src="https://use.fontawesome.com/4b6dfd67d9.js"></script>
 
-#### [Anca & Rik - Brúðkaup](./)  &nbsp; : &nbsp; [Svara boðinu](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Ferðatilhögun](is/travel.html)  &nbsp; &#10209; &nbsp;  [Gisting](is/hotels.html)  &nbsp; &#10209; &nbsp;  [Að ferðast um Transilvaníu](is/trip.html)
+#### [Anca & Rik - Brúðkaup](./)  &nbsp; : &nbsp; [Svara boðinu](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Ferðatilhögun](travel.html)  &nbsp; &#10209; &nbsp;  [Gisting](hotels.html)  &nbsp; &#10209; &nbsp;  [Að ferðast um Transilvaníu](trip.html)
 
 ***
 
@@ -17,7 +17,7 @@ author: "Anca Dumitrache"
 
 ### Anca & Rik: 18 Júlí 2020 ❤️ Bistrița, Rúmeníu
 
-[🇬🇧](https://anca-rik-wedding.github.io/travel) &nbsp; [🇮🇸](is/travel.html)
+[🇬🇧](https://anca-rik-wedding.github.io/travel) &nbsp; [🇮🇸](travel.html)
 
 Að komast til Rúmeníu er auðvelt. Það er best að taka flugvél. Það eina sem þú þarft að gera er að koma þér til höfuðborgar norður-Rúmeníu, Cluj-Napoca. Betur þekkt sem Cluj. Þar er alþjóðaflugvöllur sem er því miður ekki beintengdur fróninu. Svo það þarf að millilenda. Það er nokkrir valmöguleikar í boði, en við mælum með eftirfarandi.
 
