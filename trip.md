@@ -4,7 +4,8 @@ author: "Anca Dumitrache"
 
 <script src="https://use.fontawesome.com/4b6dfd67d9.js"></script>
 
-#### [Anca & Rik wedding](./)  &nbsp; : &nbsp; [RSVP](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Travel](travel.html)  &nbsp; &#10209; &nbsp;  [Hotels](hotels.html)  &nbsp; &#10209; &nbsp;  [Visit Transylvania](trip.html) 
+#### [Anca & Rik wedding](./)  &nbsp; : &nbsp; [RSVP](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Travel](travel.html)  &nbsp; &#10209; &nbsp;  [Hotels](hotels.html)  &nbsp; &#10209; &nbsp;  [Events](events.html)  &nbsp; &#10209; &nbsp;  [Visit Transylvania](trip.html)
+
 
 
 
@@ -39,3 +40,8 @@ Some nice places to see in the area:
 * [Dacian fortress of the Orăștie mountains](https://en.wikipedia.org/wiki/Dacian_Fortresses_of_the_Or%C4%83%C8%99tie_Mountains)
 * [Hațeg dinosaurs park](https://en.wikipedia.org/wiki/Ha%C8%9Beg_Country_Dinosaurs_Geopark)
 * [Apuseni mountains](https://en.wikipedia.org/wiki/Apuseni_Mountains), and its [caves](https://www.uncover-romania.com/attractions/nature/caves-from-apuseni/)
+
+
+***
+
+**Contact:** [Anca](mailto:anca.dmtrch@gmail.com) & [Rik](mailto:rikkid6@gmail.com).
