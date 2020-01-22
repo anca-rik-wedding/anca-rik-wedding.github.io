@@ -20,7 +20,7 @@ author: "Anca Dumitrache"
 
 [🇬🇧](https://anca-rik-wedding.github.io) &nbsp; [🇮🇸](./)
 
-Jæja, þá er loksins komið að því,þótt fyrr hefði verið segja vafalaust einhverjir. Brúðkaup í vænndum!. Við ætlum að gifta okkur 18. Júní 2020! 
+Jæja, þá er loksins komið að því,þótt fyrr hefði verið segja vafalaust einhverjir. Brúðkaup í vænndum!. Við ætlum að gifta okkur 18. Júlí 2020! 
 
 Ekkert myndi gleðja okkur meira en að þú kæmir og fagnaðir með okkur.
 
