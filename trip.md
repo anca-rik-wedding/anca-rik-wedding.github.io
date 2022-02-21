@@ -4,7 +4,7 @@ author: "Anca Dumitrache"
 
 <script src="https://use.fontawesome.com/4b6dfd67d9.js"></script>
 
-#### [Anca & Rik wedding](./)  &nbsp; : &nbsp; [RSVP](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Travel](travel.html)  &nbsp; &#10209; &nbsp;  [Hotels](hotels.html)  &nbsp; &#10209; &nbsp;  [Events](events.html)  &nbsp; &#10209; &nbsp;  [Visit Transylvania](trip.html)
+#### [Anca & Rik wedding](./)  &nbsp; : &nbsp; [RSVP](https://forms.gle/uzLpqn1FvGNjH6sW7)  &nbsp; &#10209; &nbsp;   [Travel](travel.html)  &nbsp; &#10209; &nbsp;  [Hotels](hotels.html)  &nbsp; &#10209; &nbsp;  [Events](events.html)  &nbsp; &#10209; &nbsp;  [Visit Transylvania](trip.html)
 
 
 
@@ -17,9 +17,9 @@ author: "Anca Dumitrache"
 </figure>
 
 ## Visit Transylvania
-### Anca & Rik: 18 July 2020 ❤️ Bistrița, Romania
+### Anca & Rik: 30 July 2022 ❤️ Bistrița, Romania
 
-After the wedding, we would like to organize a **week-long trip around Transylvania** together with all of our friends. The trip will take place on **July 20 - 26**.
+If you'd like to extend your stay in Transylvania, we can help you plan a longer trip.
 
 Some nice places to see in the area:
 

@@ -5,7 +5,7 @@ author: "Anca Dumitrache"
 
 <script src="https://use.fontawesome.com/4b6dfd67d9.js"></script>
 
-#### [Anca & Rik - Brúðkaup](./)  &nbsp; : &nbsp; [Svara boðinu](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Ferðatilhögun](travel.html)  &nbsp; &#10209; &nbsp;  [Gisting](hotels.html)  &nbsp; &#10209; &nbsp;  [Að ferðast um Transilvaníu](trip.html)
+#### [Anca & Rik - Brúðkaup](./)  &nbsp; : &nbsp; [Svara boðinu](https://forms.gle/uzLpqn1FvGNjH6sW7)  &nbsp; &#10209; &nbsp;   [Ferðatilhögun](travel.html)  &nbsp; &#10209; &nbsp;  [Gisting](hotels.html)  &nbsp; &#10209; &nbsp;  [Að ferðast um Transilvaníu](trip.html)
 
 ***
 
@@ -16,11 +16,11 @@ author: "Anca Dumitrache"
 
 ## Anca & Rik
 
-### 18 Júlí 2020 ❤️ Bistrița, Rúmeníu
+### 30 Júlí 2022 ❤️ Bistrița, Rúmeníu
 
 [🇬🇧](https://anca-rik-wedding.github.io) &nbsp; [🇮🇸](./)
 
-Jæja, þá er loksins komið að því,þótt fyrr hefði verið segja vafalaust einhverjir. Brúðkaup í vænndum!. Við ætlum að gifta okkur 18. Júlí 2020! 
+Jæja, þá er loksins komið að því,þótt fyrr hefði verið segja vafalaust einhverjir. Brúðkaup í vænndum!. Við ætlum að gifta okkur 30. Júlí 2022! 
 
 Ekkert myndi gleðja okkur meira en að þú kæmir og fagnaðir með okkur.
 
@@ -31,18 +31,16 @@ Fyrir ævintýraþyrsta verður svo boðið uppá vikulanga svaðilför um helst
 
 Helstu dagsetningar eru því eftirfarandi:
 
-* **Júlí 18** : kirkjubrúðkaup & veisla á [Hotel Metropolis](https://www.google.com/maps/place/Metropolis/@47.1272607,24.4966106,15z/data=!4m2!3m1!1s0x0:0x250b9cd755c23bf0?sa=X&ved=2ahUKEwjY_927vZnmAhUMUlAKHa9MDzgQ_BIwFHoECBoQCA), Bistrița
+* **Júlí 30** : kirkjubrúðkaup & veisla á [Hotel Metropolis](https://www.google.com/maps/place/Metropolis/@47.1272607,24.4966106,15z/data=!4m2!3m1!1s0x0:0x250b9cd755c23bf0?sa=X&ved=2ahUKEwjY_927vZnmAhUMUlAKHa9MDzgQ_BIwFHoECBoQCA), Bistrița
 
-* **Júlí 19** : rólegheit, afslöppun og gaman við [Colibița](https://www.google.com/maps/place/Colibi%C8%9Ba,+Romania/data=!4m2!3m1!1s0x474a08e706de8b0d:0x989b7a802680673e?sa=X&ved=2ahUKEwjsh6_bvZnmAhWNb1AKHQxiDwMQ8gEwHnoECBAQBA)  fjalla heilsulind
-
-* **Júlí 20 - 26** :  eftir brúðkaups ferðalag um Transilvaníu
+* **Júlí 31** : afterparty TBD
 
 
 Kæru gestir, takið eftir. Vinsamlega skoðið ferðasíðuna en þar má sjá upplýsingar varðandi besta ferðamátann til Rúmeníu. 
 
-Við höfum tekið frá hótelherbergi fyrir alla frá og með 18 Júlí.
+Við höfum tekið frá hótelherbergi fyrir alla frá og með 30 Júlí.
 
-Ef þú er til í að leggja land undir fót og fagna með okkur, viltu þá vinsamlegast fylla inn eftirfarandi eyðublað? **[RSVP here](https://forms.gle/nrNsmtP1qeaxgmD89)**! Og ekki hika við að senda okkur tölvupóst fyrir frekari upplýsingar! Við komum til með að senda þér/ykkur frekari upplýsingar í tölvupósti. ([Anca](mailto:anca.dmtrch@gmail.com) or [Rik](mailto:rikkid6@gmail.com)).
+Ef þú er til í að leggja land undir fót og fagna með okkur, viltu þá vinsamlegast fylla inn eftirfarandi eyðublað? **[RSVP here](https://forms.gle/uzLpqn1FvGNjH6sW7)**! Og ekki hika við að senda okkur tölvupóst fyrir frekari upplýsingar! Við komum til með að senda þér/ykkur frekari upplýsingar í tölvupósti. ([Anca](mailto:anca.dmtrch@gmail.com) or [Rik](mailto:rikkid6@gmail.com)).
 
 **Veður:** Veðrið um miðjan Júlí er alla jafna frekar millt. 26°C að meðaltali yfir daginn og um 15°C að næturlagi. 60% raki og náttúrulega einhverjar líkur á rigningu, en við krossum puttana.
 

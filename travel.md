@@ -4,7 +4,7 @@ author: "Anca Dumitrache"
 
 <script src="https://use.fontawesome.com/4b6dfd67d9.js"></script>
 
-#### [Anca & Rik wedding](./)  &nbsp; : &nbsp; [RSVP](https://forms.gle/nrNsmtP1qeaxgmD89)  &nbsp; &#10209; &nbsp;   [Travel](travel.html)  &nbsp; &#10209; &nbsp;  [Hotels](hotels.html)  &nbsp; &#10209; &nbsp;  [Events](events.html)  &nbsp; &#10209; &nbsp;  [Visit Transylvania](trip.html)
+#### [Anca & Rik wedding](./)  &nbsp; : &nbsp; [RSVP](https://forms.gle/uzLpqn1FvGNjH6sW7)  &nbsp; &#10209; &nbsp;   [Travel](travel.html)  &nbsp; &#10209; &nbsp;  [Hotels](hotels.html)  &nbsp; &#10209; &nbsp;  [Events](events.html)  &nbsp; &#10209; &nbsp;  [Visit Transylvania](trip.html)
 
 
 
@@ -16,18 +16,18 @@ author: "Anca Dumitrache"
 </figure>
 
 ## Travel
-### Anca & Rik: 18 July 2020 ❤️ Bistrița, Romania
+### Anca & Rik: 30 July 2022 ❤️ Bistrița, Romania
 
 [🇬🇧](https://anca-rik-wedding.github.io/travel) &nbsp; [🇮🇸](is/travel.html)
 
 The wedding will take place at **[Hotel Metropolis](https://www.google.com/maps/place/Metropolis/@47.1272607,24.4966106,15z/data=!4m2!3m1!1s0x0:0x250b9cd755c23bf0?sa=X&ved=2ahUKEwjY_927vZnmAhUMUlAKHa9MDzgQ_BIwFHoECBoQCA)**, in Anca's hometown of **[Bistrița, Romania](https://en.wikipedia.org/wiki/Bistri%C8%9Ba)**. Bistrița is located in the North part of Romania, in the region of [Transylvania](https://en.wikipedia.org/wiki/Transylvania).
 
-Please note that, since it may take some time to reach our wedding venue, we recommend you **reserve Friday July 17 for travelling purposes**.
+Please note that, since it may take some time to reach our wedding venue, we recommend you **reserve Friday July 29 for travelling purposes**.
 
 
 ### Airports
 
-The closest airport to Bistrița is **[Avram Iancu Cluj International Airport](http://airportcluj.ro/?id_limba=2)**. To get to Bistrița from Cluj, it takes an additional 2 hour drive (around 100km).
+We recommend you fly in through **[Avram Iancu Cluj International Airport](http://airportcluj.ro/?id_limba=2)**. To get to Bistrița from Cluj, it takes an additional 2 hour drive (around 100km). We will also try to arrange group travel from Cluj to Bistrița.
 
 Other airports close to Bistrița are:
 
